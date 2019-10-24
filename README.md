@@ -1,6 +1,6 @@
 # lms-grpc-dashbord
 
-This log management system dashboard project is for streaming live log files in the proect dashboard. 
+This log management system dashboard project is for streaming live log files into this proect dashboard. 
 The backend data populated to the frontend server through grpc communication
 
 For running this, clone this repo and run the following
